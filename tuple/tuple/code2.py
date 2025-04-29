@@ -1,0 +1,10 @@
+t=("india","pak","russia","america","china")
+T=("srilank","ban")
+add=t+T
+print(add)
+cou=add.count("india")
+index=add.index("china")
+len=len(add)
+print(len)
+print(cou)
+print(index)
